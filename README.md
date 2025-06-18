@@ -33,9 +33,9 @@
 - Manipulation du DOM dynamique
 - Gestion d'erreurs avec `try/catch`
 
-## Installation
+## Aperçu
 
-Aucune installation nécessaire! Ouvrez simplement `index.html` dans votre navigateur.
+![Capture d'écran du projet](findUserGithub.png)
 
 ## Améliorations Possibles
 
@@ -43,4 +43,3 @@ Aucune installation nécessaire! Ouvrez simplement `index.html` dans votre navig
 - Implémenter un système de cache
 - Afficher plus d'informations sur chaque utilisateur
 
-![Capture d'écran du projet](findUserGithub.png)
