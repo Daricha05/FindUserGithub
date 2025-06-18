@@ -42,3 +42,5 @@ Aucune installation nécessaire! Ouvrez simplement `index.html` dans votre navig
 - Ajouter la pagination des résultats
 - Implémenter un système de cache
 - Afficher plus d'informations sur chaque utilisateur
+
+![Capture d'écran du projet](findUserGithub.png)
